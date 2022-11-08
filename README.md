@@ -1,2 +1,2 @@
 # EatBabyEatGame
-Game project developed by Bihan
+This is a game project developed by Bihan
